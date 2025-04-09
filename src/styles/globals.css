@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* Optional: Set a default background if needed, 
+     but the page component sets its own bg-gray-100 */
+  /* background-color: #f0f0f0; */
+  font-family: Arial, Helvetica, sans-serif; /* Keep a default font */
+}
